@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #f0f0f0;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    background: #00a2ff;
+    padding: 15px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.block-icon {
+    width: 32px;
+    height: 32px;
+    background: #ffffff;
+    border-radius: 4px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+/* Hero */
+.hero {
+    background: linear-gradient(135deg, #00a2ff 0%, #0066cc 100%);
+    color: white;
+    padding: 80px 50px;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 56px;
+    margin-bottom: 20px;
+    font-weight: 900;
+    text-shadow: 3px 3px 0 #004499;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Buttons */
+.btn-primary {
+    display: inline-block;
+    background: #ffcc00;
+    color: #333;
+    padding: 15px 40px;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 3px solid #333;
+    box-shadow: 0 4px 0 #333;
+    transition: transform 0.1s;
+}
+
+.btn-primary:hover {
+    transform: translateY(2px);
+    box-shadow: 0 2px 0 #333;
+}
+
+/* Sections */
+.section-title {
+    text-align: center;
+    font-size: 36px;
+    margin: 50px 0 30px;
+    color: #0066cc;
+    font-weight: 900;
+}
+
+/* Resources */
+.resources {
+    padding: 20px 50px 60px;
+}
+
+.resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.resource-card {
+    background: white;
+    border: 3px solid #333;
+    border-radius: 8px;
+    padding: 25px;
+    box-shadow: 6px 6px 0 #333;
+    transition: transform 0.2s;
+}
+
+.resource-card:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 8px 8px 0 #333;
+}
+
+.card-icon {
+    width: 60px;
+    height: 60px;
+    background: #00a2ff;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    border: 2px solid #333;
+}
+
+.resource-card h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #0066cc;
+}
+
+.resource-card p {
+    margin-bottom: 15px;
+    line-height: 1.5;
+    font-size: 15px;
+}
+
+.card-link {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.card-link:hover {
+    text-decoration: underline;
+}
+
+/* Categories */
+.categories {
+    padding: 40px 50px;
+    background: white;
+    text-align: center;
+}
+
+.category-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.cat-tab {
+    padding: 10px 25px;
+    border: 2px solid #333;
+    background: #f0f0f0;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.cat-tab:hover {
+    background: #00a2ff;
+    color: white;
+}
+
+.cat-tab.active {
+    background: #00a2ff;
+    color: white;
+}
+
+/* CTA */
+.cta {
+    background: #ffcc00;
+    padding: 60px 50px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.cta h2 {
+    font-size: 36px;
+    margin-bottom: 15px;
+    color: #333;
+    font-weight: 900;
+}
+
+.cta p {
+    margin-bottom: 25px;
+    font-size: 18px;
+    color: #333;
+}
+
+/* Footer */
+.footer {
+    background: #333;
+    color: white;
+    padding: 40px 50px;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer .logo {
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.footer p {
+    margin-bottom: 15px;
+}
+
+.social-links a {
+    color: #ffcc00;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 700;
+}
+
+.social-links a:hover {
+    text-decoration: underline;
+}
