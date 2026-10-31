@@ -14,9 +14,9 @@ The website was developed using HTML, CSS and JavaScript through Visual Studio C
 
 | Team Member | Role | Responsibilities |
 |---|---|---|
-| [Member 1] | Project Leader | [Describe contributions] |
-| [Member 2] | Front-End Developer | [Describe contributions] |
-| [Member 3] | Web Designer | [Describe contributions] |
+| [Errul] | Project Leader | [Owner of the repository] |
+| [Bee] | Team member | [Collaborator] |
+| [Ade] |Team member | [Collaborator] |
 
 ---
 
@@ -27,9 +27,9 @@ Bloxify consists of several pages designed to guide users through the basics of 
 | Page | Description |
 |---|---|
 | Home Page | Introduces Bloxify and provides an overview of the website. |
-| [Page Name] | [Describe what users can learn on this page.] |
-| [Page Name] | [Describe the page's purpose.] |
-| [Page Name] | [Describe the page's purpose.] |
+| [Tutorials] | [Step-by-step guides for beginners and advanced creators learning Roblox Studio.] |
+| [Lua Scripts] | [Pre-built scripts for your Roblox games, from basic mechanics to advanced system.] |
+| [Dev Tools] | [Utilities and plugins to speed up your development workflow in Roblox Studio.] |
 
 The website also includes:
 - Interactive navigation buttons.
@@ -142,7 +142,7 @@ The following Pull Requests demonstrate the contributions made by our team membe
 | Pull Request | Contributor | Description |
 |---|---|---|---|
 | PR #1 | [Errul] | [Team leader] | Change repository name |
-| PR #2 | [Bee] | [Team member] | Update Readme.md description
+| PR #2 | [Bee] | [Team member] | Update Readme.md description |
 | PR #3 | [Ade] | [Team member] | 
 ---
 
