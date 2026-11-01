@@ -12,7 +12,7 @@ body {
 
 /* Navbar */
 .navbar {
-    background: #00a2ff;
+    background: #293073;
     padding: 15px 50px;
     display: flex;
     justify-content: space-between;
@@ -50,7 +50,7 @@ body {
 
 /* Hero */
 .hero {
-    background: linear-gradient(135deg, #00a2ff 0%, #0066cc 100%);
+    background: linear-gradient(135deg, #414a9c 0%, #414a9c 100%);
     color: white;
     padding: 80px 50px;
     text-align: center;
@@ -60,7 +60,9 @@ body {
     font-size: 56px;
     margin-bottom: 20px;
     font-weight: 900;
-    text-shadow: 3px 3px 0 #004499;
+    color: #ffffff;
+    text-shadow: 4px 4px 0 #8B5CF6;
+    letter-spacing: 2px;
 }
 
 .hero p {
@@ -74,8 +76,8 @@ body {
 /* Buttons */
 .btn-primary {
     display: inline-block;
-    background: #ffcc00;
-    color: #333;
+    background: #293073;
+    color: #ffffff;
     padding: 15px 40px;
     text-decoration: none;
     font-weight: 900;
@@ -96,7 +98,7 @@ body {
     text-align: center;
     font-size: 36px;
     margin: 50px 0 30px;
-    color: #0066cc;
+    color: #293073;
     font-weight: 900;
 }
 
@@ -130,7 +132,7 @@ body {
 .card-icon {
     width: 60px;
     height: 60px;
-    background: #00a2ff;
+    background: #293073;
     color: white;
     display: flex;
     align-items: center;
@@ -145,7 +147,7 @@ body {
 .resource-card h3 {
     font-size: 22px;
     margin-bottom: 10px;
-    color: #0066cc;
+    color: #293073;
 }
 
 .resource-card p {
@@ -155,7 +157,7 @@ body {
 }
 
 .card-link {
-    color: #0066cc;
+    color: #293073;
     text-decoration: none;
     font-weight: 700;
 }
@@ -190,18 +192,18 @@ body {
 }
 
 .cat-tab:hover {
-    background: #00a2ff;
+    background: #293073;
     color: white;
 }
 
 .cat-tab.active {
-    background: #00a2ff;
+    background: #293073;
     color: white;
 }
 
 /* CTA */
 .cta {
-    background: #ffcc00;
+    background: #293073;
     padding: 60px 50px;
     text-align: center;
     margin-top: 40px;
@@ -243,7 +245,7 @@ body {
 }
 
 .social-links a {
-    color: #ffcc00;
+    color: #293073;
     text-decoration: none;
     margin: 0 15px;
     font-weight: 700;
@@ -251,4 +253,34 @@ body {
 
 .social-links a:hover {
     text-decoration: underline;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo img {
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+}
+
+.logo span {
+    font-size: 26px;
+    font-weight: 900;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Oxanium', Monospace !important;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family: 'Oxanium', Monospace !important;
 }
