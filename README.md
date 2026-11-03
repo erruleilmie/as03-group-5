@@ -170,11 +170,11 @@ This helped us understand the importance of communication and coordination when 
 
 The following Pull Requests demonstrate the contributions made by our team members.
 
-| Pull Request | Contributor | Description |
-|---|---|---|---|
+| Pull Request | Contributor | Role | Description |
+| --- | --- | --- | --- |
 | PR #1 | Errul | Team leader | Change repository name |
-| PR #2 | Bee | Team member | Update Readme.md description |
-| PR #3 | Ade | Team member | 
+| PR #2 | Bee | Team member | Update README.md description |
+| PR #3 | Ade | Team member | Update website icon |
 ---
 
 ## 9. Conclusion
