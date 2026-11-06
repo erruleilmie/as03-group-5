@@ -178,11 +178,11 @@ The following Pull Requests demonstrate the contributions made by our team membe
 
 ---
 
-## Individual Contributions
+## 9. Individual Contributions
 
 | Member | Description |
 | --- | --- |
-| Errul | Enter individual contribution here. |
+| Errul | Throughout this project, I contributed to developing our group website by working on the website structure and design using HTML, CSS and JavaScript. I also learned how to use Laravel Herd to run our website locally through an HTTPS connection. Besides that, I gained experience using GitHub to create branches, commit changes, submit Pull Requests and review my teammates' work. I'm also the owner of the repository so I also experienced creating a repository and setting up the rulesets and tag. One challenge we faced was resolving merge conflicts when combining our changes from different branches. However, we managed to solve the issue through teamwork. Overall, this assignment helped me improve my understanding of website development, Laravel Herd and Git collaboration. |
 | Bee | During this assignment, I contributed by updating and improving the README.md file and polishing our website to make its overall appearance and functions match the assignment's criteria. I also helped with the Git collaboration process by working with branches, staging changes, resolving a merge conflict, and pushing the updated files to GitHub. Through this experience, I learned how Git allows team members to work on the same project while tracking changes and combining their contributions. One challenge our team overcame was a merge conflict in README.md, where both branches had different versions of the file. We resolved it by choosing Accept Both Changes in VS Code, checking the content, and completing the merge. |
 | Ade | Enter individual contribution here. |
 
