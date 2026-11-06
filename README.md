@@ -178,13 +178,13 @@ The following Pull Requests demonstrate the contributions made by our team membe
 
 ---
 
-## 9. Individual reflections
+## Individual Contributions
 
 | Member | Description |
-| --- | --- | --- | --- |
-| Errul | enter  |
-| Bee | During this assignment, I contributed by updating and improving the README.md file and polishing our website to make its overall appearance and functions matches with the assignment’s criteria. I also helped with the Git collaboration process by working with branches, staging changes, resolving a merge conflict, and pushing the updated files to GitHub. Through this experience, I learned how Git allows team members to work on the same project while tracking changes and combining their contributions. One challenge our team overcame was a merge conflict in README.md, where both branches had different versions of the file. We resolved it by choosing Accept Both Changes in VS Code, checking the content, and completing the merge. |
-| Ade | Enter |
+| --- | --- |
+| Errul | Enter individual contribution here. |
+| Bee | During this assignment, I contributed by updating and improving the README.md file and polishing our website to make its overall appearance and functions match the assignment's criteria. I also helped with the Git collaboration process by working with branches, staging changes, resolving a merge conflict, and pushing the updated files to GitHub. Through this experience, I learned how Git allows team members to work on the same project while tracking changes and combining their contributions. One challenge our team overcame was a merge conflict in README.md, where both branches had different versions of the file. We resolved it by choosing Accept Both Changes in VS Code, checking the content, and completing the merge. |
+| Ade | Enter individual contribution here. |
 
 ---
 
