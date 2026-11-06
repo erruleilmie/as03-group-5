@@ -175,9 +175,20 @@ The following Pull Requests demonstrate the contributions made by our team membe
 | PR #1 | Errul | Team leader | Change repository name |
 | PR #2 | Bee | Team member | Update README.md description |
 | PR #3 | Ade | Team member | Update website icon |
+
 ---
 
-## 9. Conclusion
+## Individual Contributions
+
+| Member | Description |
+| --- | --- |
+| Errul | Enter individual contribution here. |
+| Bee | During this assignment, I contributed by updating and improving the README.md file and polishing our website to make its overall appearance and functions match the assignment's criteria. I also helped with the Git collaboration process by working with branches, staging changes, resolving a merge conflict, and pushing the updated files to GitHub. Through this experience, I learned how Git allows team members to work on the same project while tracking changes and combining their contributions. One challenge our team overcame was a merge conflict in README.md, where both branches had different versions of the file. We resolved it by choosing Accept Both Changes in VS Code, checking the content, and completing the merge. |
+| Ade | Enter individual contribution here. |
+
+---
+
+## 10. Conclusion
 
 Bloxify was developed to provide beginners with an accessible introduction to Roblox game development.
 
